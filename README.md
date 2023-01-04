@@ -1,7 +1,9 @@
+# With ♥ by Kotiasv
+
 This is a [Next.js](https://nextjs.org/) & [React.js](https://reactjs.org/) web app bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and styled with [Tailwind CSS](https://tailwindcss.com/). 
 
 
-![изображение](https://user-images.githubusercontent.com/54102609/210545852-02486cb9-f775-4fdf-96d9-d07240bc89c3.png)
+![header showcase](https://user-images.githubusercontent.com/54102609/210545852-02486cb9-f775-4fdf-96d9-d07240bc89c3.png)
 
 
 ## Getting Started
@@ -26,3 +28,8 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+
+
+## Source Link
+
+Website design was taken from the [video](https://youtu.be/k-Pi5ZMxHWY) by [developedbyed](https://www.youtube.com/@developedbyed).
